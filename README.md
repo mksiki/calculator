@@ -1,6 +1,6 @@
 ## Live Demo: https://mksiki.github.io/calculator/
 
-#Calculator App
+Calculator App
 This is a simple calculator web application designed and implemented using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. It also provides functionality for clearing the display, deleting the last entered digit, and displaying results with proper formatting.
 
 Features
@@ -28,7 +28,7 @@ AC Button: Click on the "AC" button to clear the entire display.
 
 DE Button: Click on the "DE" button to delete the last entered digit.
 
-###Author
+Author
 Jesus Antonio
 
 Feel free to reach out for any questions, suggestions, or collaborations.
